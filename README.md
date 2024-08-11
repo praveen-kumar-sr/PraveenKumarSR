@@ -34,23 +34,16 @@ Want to know more about me? [Check out my portfolio.](https://praveensr157.githu
 
 <br>
 
-<a href="https://github.com/yedhukrrish/CHATBOT-AIML--PYTHON">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yedhukrrish&repo=CHATBOT-AIML--PYTHON&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
 ## &#x1f4c8; GitHub Stats
 
 <br>
 
-<a href="https://github.com/yedhukrrish">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yedhukrrish&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/praveen-kumar-sr">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-kumar&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/yedhukrrish">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=yedhukrrish&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Yedhu's GitHub Stats" />
+<a href="https://github.com/praveen-kumar-sr">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=praveen-kumar-sr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Praveen's GitHub Stats" />
 </a>
 
 <br>
