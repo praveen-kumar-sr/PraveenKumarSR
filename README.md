@@ -22,7 +22,7 @@ Want to know more about me? [Check out my portfolio.](https://praveen-kumar-sr.g
 
 <br>
 
-<a href="https://praveensr157.github.io/portfolio/">
+<a href="https://praveen-kumar-sr.github.io/portfolio/">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=praveen-kumar-sr&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
