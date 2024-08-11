@@ -15,7 +15,7 @@ Mid level Data Analyst
 * ✉️  You can contact me at [praveenkumarsravi@gmail.com](mailto:praveenkumarsravi@gmail.com)
 * 🌱 I’m currently learning **PySpark, Machine Learning, NoSQL and AWS**
 
-Want to know more about me? [Check out my portfolio.](https://praveensr157.github.io/portfolio/)
+Want to know more about me? [Check out my portfolio.](https://praveen-kumar-sr.github.io/portfolio/)
 
 
 ## 📌 Pinned Repositories
