@@ -1,4 +1,4 @@
-[![Praveen's GitHub Banner](./header.png)](https://braydoncoyer.dev)
+[![Praveen's GitHub Banner](./header.jpg)](https://braydoncoyer.dev)
   
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/praveen-kumar-sr/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/praveen_sr_/)
