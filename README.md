@@ -39,7 +39,7 @@ Want to know more about me? [Check out my portfolio.](https://praveen-kumar-sr.g
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-PowerBi-informational?style=flat&logo=powerbi&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-PowerBi-informational?style=flat&logo=PowerBii&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
