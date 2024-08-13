@@ -51,6 +51,9 @@ Want to know more about me? [Check out my portfolio.](https://praveen-kumar-sr.g
 ![](https://img.shields.io/badge/Tool-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tool-Teradata_SQL-brightgreen?style=flat&logo=teradata&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tool-Snowflake_SQL-brightgreen?style=flat&logo=Snowflake&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tool-Informatica_Powercenter-brightgreen?style=flat&logo=informatica&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tool-Talend_Open_Studio-brightgreen?style=flat&logo=talend&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tool-ChatGpt-brightgreen?style=flat&logo=openai&logoColor=white&color=4AB197)
 
 
 <br>
