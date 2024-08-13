@@ -36,7 +36,7 @@ Want to know more about me? [Check out my portfolio.](https://praveen-kumar-sr.g
 <br>
 
 
-## 💼 Skills
+## 💼 Skills & Tools
 
 ![](https://img.shields.io/badge/Code-Python-brightgreen?style=flat&logo=python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/code-C-brightgreen?style=flat&logo=C&logoColor=white&color=4AB197)
