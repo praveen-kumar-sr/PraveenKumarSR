@@ -38,11 +38,13 @@ Want to know more about me? [Check out my portfolio.](https://praveen-kumar-sr.g
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/code-Python-brightgreen?style=flat&logo=python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/tool-Tableau-brightgreen?style=flat&logo=Tableau&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/tool-Teradata_SQL_Studio-brightgreen?style=flat&logo=teradata&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Python-brightgreen?style=flat&logo=python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/code-C-brightgreen?style=flat&logo=C&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/code-SQL-brightgreen?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tool-Tableau-brightgreen?style=flat&logo=Tableau&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tool-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tool-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tool-Teradata_SQL-brightgreen?style=flat&logo=teradata&logoColor=white&color=4AB197)
 
 
 <br>
